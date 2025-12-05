@@ -141,14 +141,6 @@ ec2:StopInstances - cloudwatch:GetMetricStatistics - ce:GetCostAndUsage
 
     python daily_runner.py
 
-### macOS LaunchAgent
-
-    launchctl load ~/Library/LaunchAgents/aws.daily.report.plist
-
 ------------------------------------------------------------------------
 
-## ✨ Author
-
-**Amith Y**
-Site Reliability Engineer 
 
