@@ -150,4 +150,4 @@ ec2:StopInstances - cloudwatch:GetMetricStatistics - ce:GetCostAndUsage
 ## ✨ Author
 
 **Amith Y**\
-Site Reliability Engineer \| AWS & Cloud Automation
+Site Reliability Engineer 
