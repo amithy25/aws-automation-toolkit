@@ -150,4 +150,8 @@ ec2:StopInstances - cloudwatch:GetMetricStatistics - ce:GetCostAndUsage
 ## ✨ Author
 
 **Amith Y**\
+<<<<<<< HEAD
 Site Reliability Engineer 
+=======
+Site Reliability Engineer 
+>>>>>>> 9b10d29 (added Dockerfile, to containerize the application)
