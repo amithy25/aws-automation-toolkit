@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
 sender_email = "amithy25@gmail.com"
-sender_password = "ouxy mmjg smaw eeud"  # 16-character app password
+#sender_password = <smtp-password>  # 16-character app password
 recipient_email = "amithy25@gmail.com"  # can be same
 
 # Email content
