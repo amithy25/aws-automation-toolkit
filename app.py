@@ -73,7 +73,7 @@ def send_email_smtp(subject, body, recipient_email):
     Send an email using SMTP (e.g., Gmail).
     """
     sender_email = "amithy25@gmail.com"
-    sender_password = "ouxy mmjg smaw eeud"            # Gmail App Password
+    #sender_password = <smtp password>            # Gmail App Password
     msg = MIMEText(body)
     msg["Subject"] = subject
     msg["From"] = sender_email
