@@ -1,0 +1,8 @@
+boto3
+Flask
+schedule
+matplotlib
+pandas
+python-dotenv
+requests
+gunicorn
